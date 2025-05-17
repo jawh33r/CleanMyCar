@@ -28,11 +28,8 @@
 
 ## 📷 Screenshots
 
-
-
-```markdown
-![Home Page](assets/homepage.png)
-![Booking Page](assets/booking.png)
+![Home Page](image/home.png)
+![Booking Page](image/reserv.png)
 
 ## 📦 Installation
 
