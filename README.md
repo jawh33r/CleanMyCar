@@ -34,25 +34,25 @@
 ![Home Page](assets/homepage.png)
 ![Booking Page](assets/booking.png)
 
-📦 Installation
+## 📦 Installation
 
-git clone https://github.com/your-username/CleanMyCar.git
-cd CleanMyCar
+- git clone https://github.com/your-username/CleanMyCar.git
+- cd CleanMyCar
 # Move to XAMPP's htdocs folder if needed
 Import the database (cleanmycar.sql) into phpMyAdmin.
 
 Configure database credentials in config.php.
 
-✅ How to Use
+## ✅ How to Use
 Start Apache and MySQL from XAMPP.
 
 Navigate to http://localhost/CleanMyCar/.
 
 Register or login and start booking services!
 
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Jawher Ayari
 @jawh3
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License — see the LICENSE file for details.
