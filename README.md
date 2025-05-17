@@ -28,8 +28,8 @@
 
 ## 📷 Screenshots
 
-![Home Page](image/home.png)
-![Booking Page](image/reserv.png)
+- ![Home Page](image/home.png)
+- ![Booking Page](image/reserv.png)
 
 ## 📦 Installation
 
