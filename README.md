@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/logo.png" alt="CleanMyCar Logo" width="150"/>
+  <img src="image/logo2.png" alt="CleanMyCar Logo" width="150"/>
 </p>
 
 <h1 align="center">CleanMyCar</h1>
