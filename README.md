@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="CleanMyCar Logo" width="150"/>
+  <img src="image/logo.png" alt="CleanMyCar Logo" width="150"/>
 </p>
 
 <h1 align="center">CleanMyCar</h1>
@@ -28,7 +28,7 @@
 
 ## 📷 Screenshots
 
-> *(Add images in `/assets` and show a few screenshots of your UI)*
+
 
 ```markdown
 ![Home Page](assets/homepage.png)
